@@ -7,3 +7,15 @@ The notebooks used in the workshop were assembled from existing github repositor
 https://github.com/LenzDu/Kaggle-Competition-Sberbank
 https://github.com/sauravkaushik8/Sberbank-Russian-Housing-Market
 https://www.kaggle.com/captcalculator/a-very-extensive-sberbank-exploratory-analysis
+
+## Installation
+
+This setup is tested with python 3.6
+
+Install required packages:
+`pip install requirements.txt --user`
+
+## Usage
+
+Launch a jupyter notebook server
+`jupyter notebook`
