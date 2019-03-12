@@ -1,10 +1,9 @@
-numpy==1.15.2
-panda==0.3.1
-matplotlib==2.2.2
+numpy==1.16.2
+pandas==0.24.1
+matplotlib==3.0.3
 seaborn==0.9.0
-sklearn==0.0
+scikit-learn==0.20.3
 xgboost==0.82
-lightgbm==2.1.2
-datetime==4.3
-shap==0.24.0
+lightgbm==2.2.3
+shap==0.28.5
 pickle
