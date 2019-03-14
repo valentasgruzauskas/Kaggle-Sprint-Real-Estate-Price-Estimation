@@ -13,7 +13,9 @@ https://www.kaggle.com/captcalculator/a-very-extensive-sberbank-exploratory-anal
 This setup is tested with python 3.6
 
 Install required packages:
-`pip install requirements.txt --user`
+'cd to directory'
+'pip install -r requirements.txt'
+
 
 ## Usage
 
